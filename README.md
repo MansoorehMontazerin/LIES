@@ -20,7 +20,7 @@ And then, run the pipeline with:
 python lies_pipeline.py
 ```
 
-###  Dataset
+###  	:card_file_box: Dataset
 
 We have tested LIES on the Feynman symbolic regression dataset found in this [website](https://space.mit.edu/home/tegmark/aifeynman.html).
 
