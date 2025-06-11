@@ -24,6 +24,6 @@ python lies_pipeline.py
 
 We have tested LIES on the Feynman symbolic regression dataset found in this [website](https://space.mit.edu/home/tegmark/aifeynman.html).
 
-###  Contact
+###  :incoming_envelope: Contact
 
 If you have any questions, please contact mmontaze@usc.edu .
